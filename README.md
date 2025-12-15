@@ -2,7 +2,6 @@
 
 Disclaimer  
 This repository is strictly for educational and security awareness purposes only.  
-It does NOT contain scripts, tools, source code, or instructions for malicious activity.  
 Its sole purpose is to help users understand crypto wallet drainer scams and stay safe.
 
 ---
@@ -16,6 +15,13 @@ These scams commonly target users on:
 - Ethereum and other EVM-compatible blockchains
 - Solana
 - Popular browser wallets and mobile wallets
+
+---
+
+## Learn More About Wallet Security
+
+For a full educational guide on crypto wallet drainers and scam prevention, visit:  
+👉 https://drainerkits.com
 
 ---
 
@@ -65,18 +71,6 @@ Solana scams often rely on deceptive transaction signing rather than approvals, 
 
 ---
 
-## GitHub and Crypto Drainer Repositories
-
-GitHub is sometimes abused by scammers to create fake credibility.  
-However, legitimate educational repositories:
-- Do NOT contain scripts
-- Clearly include disclaimers
-- Focus on scam awareness and prevention
-
-This repository is an example of educational documentation, not a tool.
-
----
-
 ## How to Protect Your Crypto Wallet
 
 - Never approve unknown or suspicious contracts
@@ -87,12 +81,6 @@ This repository is an example of educational documentation, not a tool.
 
 ---
 
-## Learn More About Wallet Security
-
-For a full educational guide on crypto wallet drainers and scam prevention, visit:  
-👉 https://drainerkits.com
-
----
 
 ## Final Note
 
